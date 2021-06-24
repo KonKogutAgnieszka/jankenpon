@@ -97,7 +97,7 @@ button.start{
     grid-column: 2/3;
     grid-row: 1/3;
    font-size: 2rem;
-   padding:10%;
+   padding:9%;
 }
 
 p{
@@ -115,3 +115,89 @@ p{
 
 }
 
+@media (max-width:1366px) and (orientation:landscape){
+
+    h1{
+        font-size:6.5rem;
+       }
+
+    button.start{
+        font-size: 5.5rem;
+        margin:4vh auto 0;
+    }
+    .far{
+        font-size:9rem;
+    }
+
+    .computer, .result, .game-result{
+        font-size: 3rem;
+    }
+
+    .result{
+        padding:5vh;
+    }
+    div.select{
+        margin:1vh 10vw 0;
+    }
+}
+
+@media (max-width:768px) and (orientation:landscape){
+
+    h1{
+        font-size:3rem;
+       }
+
+    button.start{
+        font-size: 2.5rem;
+    }
+
+    .far{
+        font-size:4.6rem;
+    }
+
+    .computer, .result, .game-result{
+        font-size: 1.7rem;
+    }
+
+    .result{
+        margin:1vh;
+    }
+    div.select{
+        height: 15vh;
+        margin:0.4vh 10vw 0
+    };
+
+}
+
+@media (max-width:640px) and (orientation:landscape) {
+    h1{
+        font-size:2rem;
+       }
+
+    button.start{
+        font-size: 1.5rem;
+    }
+
+    .far{
+        font-size:4.6rem;
+    }
+
+    .computer, .result, .game-result{
+        font-size: 1rem;
+    }
+
+    .result{
+        margin:5vh ;
+    }
+    div.select{
+        height: 10vh;
+        margin:0;
+    }
+    .simple-button{
+    margin:0 auto 2vh;
+    width:100px;
+    height: 30px;
+    font-size: 1rem;
+    }
+
+}
