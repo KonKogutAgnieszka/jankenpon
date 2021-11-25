@@ -1,0 +1,2 @@
+# jankenpon
+vanilla JS
