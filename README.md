@@ -1,7 +1,9 @@
-# jankenpon
+# Jan Ken Pon #
 
-https://konkogutagnieszka.github.io/jankenpon/
+## My first project in JS ##
 
-vanilla JS
+Summary project of basic javascript course and my first attempt to use OOP.
+
+
 background image from pixabay.com
 icons from FontAwesome
