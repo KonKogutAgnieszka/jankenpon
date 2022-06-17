@@ -1,7 +1,8 @@
 # Jan Ken Pon #
 
-## My first project in JS ##
+# My first project in JS #
 
+## General Info ##
 Summary project of basic javascript course and my first attempt to use OOP.
 
 
